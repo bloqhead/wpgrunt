@@ -1,4 +1,6 @@
 # [Project Name Here]
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/bloqhead/wpgrunt.svg)](https://greenkeeper.io/)
 This WordPress theme was built for [company name here].
 
 ## Author
